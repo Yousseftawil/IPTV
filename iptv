@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN News HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinnews.png" group-title="beIN Sports SD",⚽ | beIN News HD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1103.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/bein.png" group-title="beIN Sports SD",⚽ | beIN Sports HD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1102.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Max 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax1sd.png" group-title="beIN Sports Max",beIN Max 1 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1231.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Max 1 SD backup" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax5sd.png" group-title="beIN Sports Max",beIN Max 1 SD backup
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1236.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Max 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax2sd.png" group-title="beIN Sports Max",beIN Max 2 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1232.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Max 1HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax1sd.png" group-title="beIN Sports Max",beIN Max 1HD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/19755.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Max 2HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax2sd.png" group-title="beIN Sports Max",beIN Max 2HD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/19756.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Max 1 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax1hd.png" group-title="beIN Sports Max",beIN Max 1 HD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1235.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Max 2 HD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax6hd.png" group-title="beIN Sports Max",beIN Max 2 HD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1237.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Max 1 FHD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax1hd.png" group-title="beIN Sports Max",beIN Max 1 FHD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1227.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Max 2 FHD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/beinmax2hd.png" group-title="beIN Sports Max",beIN Max 2 FHD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1228.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p1sd.png" group-title="beIN Sports SD",⚽ | beIN Premium 1 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1133.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p2sd.png" group-title="beIN Sports SD",⚽ | beIN Premium 2 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1134.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Premium 3 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p3sd.png" group-title="beIN Sports SD",⚽ | beIN Premium 3 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1135.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 1 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1136.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 2 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1137.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 3 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 3 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1138.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 4 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/4sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 4 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1139.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 5 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/5sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 5 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1140.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 6 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/6sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 6 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1141.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 7 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/7sd.png" group-title="beIN Sports SD",⚽ | beIN Sports 7 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1142.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Extra 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1xsd.png" group-title="beIN Sports SD",⚽ | beIN Extra 1 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1143.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p1sd.png" group-title="beIN Sports SD",⛳ beIN Premium 1 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1149.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p2sd.png" group-title="beIN Sports SD",⛳ beIN Premium 2 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1150.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Premium 3 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p3sd.png" group-title="beIN Sports SD",⛳ beIN Premium 3 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1151.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/2sd.png" group-title="beIN Sports SD",⛳ beIN Sports 2 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1152.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/1sd.png" group-title="beIN Sports SD",⛳ beIN Sports 1 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1153.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 3 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/3sd.png" group-title="beIN Sports SD",⛳ beIN Sports 3 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1154.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 4 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/4sd.png" group-title="beIN Sports SD",⛳ beIN Sports 4 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1155.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 5 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/5sd.png" group-title="beIN Sports SD",⛳ beIN Sports 5 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1156.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 6 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/6sd.png" group-title="beIN Sports SD",⛳ beIN Sports 6 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1157.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳ beIN Sports 7 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/7sd.png" group-title="beIN Sports SD",⛳ beIN Sports 7 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/1158.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽| beIN Premium 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p1sd.png" group-title="beIN Sports SD",⚽| beIN Premium 1 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/18179.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳|beIN Premium 1 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p1sd.png" group-title="beIN Sports SD",⛳|beIN Premium 1 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/18180.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽| beIN Premium 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p2sd.png" group-title="beIN Sports SD",⚽| beIN Premium 2 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/18181.ts
+#EXTINF:-1 tvg-id="" tvg-name="⛳|beIN Premium 2 SD" tvg-logo="https://besttvps.com/app/tv/bein/panel-logo/p2sd.png" group-title="beIN Sports SD",⛳|beIN Premium 2 SD
+https://free.one24tv.com:443/live/56971643829501/56971643829501/18182.ts
